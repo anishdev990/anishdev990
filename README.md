@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @anishdev990
+- 👋 Hi, I’m Anish Dutta Roy
 - 👀  Ex -Cloud Engineer @ Lufthansa Technik Services India
 - 🌱 Always Learning 
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me Email : anishroy@90yahoo.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: Loves new Tech
 
 <!---
